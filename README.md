@@ -26,3 +26,8 @@ as a proof-of-concept. The anticipated development looks like this:
 3. Prototype consumes json via API from patent service.
 
 Prototype application will be operating by close of 2012.
+
+---
+
+Note: there are RSS feeds available for all the repositories.
+Feel free to follow along in the RSS reader of your choice.
