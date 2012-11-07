@@ -22,7 +22,7 @@ A lightweight application is being built on top of the API, and serves
 as a proof-of-concept. The anticipated development looks like this:
 
 1. Combined application and API for developing use cases.
-2. API for serving parsed, cleaned, consolidated  & disabiguatedpatent 
+2. API for serving parsed, cleaned, consolidated  & disambiguated patent 
 data split from application as an independent service.
 3. Prototype consumes json via API from patent service.
 
