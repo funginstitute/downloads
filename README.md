@@ -23,7 +23,8 @@ continue through 2013 as the data are prepared and delivered for access via
 a web-accessible API. When in doubt about schemas, examine specific file
 timestamps.
 
-* [Patents October 15, 2012](https://s3.amazonaws.com/funginstitute/patent.sqlite3)
+* [patent.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/patent.sqlite3)
+* [class.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/class.sqlite3)
 
 
 
