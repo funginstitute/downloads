@@ -13,7 +13,9 @@ best ones to fork for contributing at the moment.
 
 ## File Downloads
 
-* [Full Sept 4 2012 disambiguation](https://s3.amazonaws.com/funginstitute/full.sqlite3)
+* [Full September 4, 2012 disambiguation](https://s3.amazonaws.com/funginstitute/full.sqlite3)
+
+* [Patents August 31, 2012](https://s3.amazonaws.com/funginstitute/patent.sqlite3)
 
 ## Applications and APIs
 
