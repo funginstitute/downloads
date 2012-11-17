@@ -74,5 +74,8 @@ CREATE TABLE patdesc (
 
 Note: there are RSS feeds available for all the repositories.
 Feel free to follow along in the RSS reader of your choice.
+The SQLite3 databases generally lack indexing to save on download
+time and expense. The user is expected to index according to
+the needs of the analysis.
 
 
