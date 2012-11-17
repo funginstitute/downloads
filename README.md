@@ -59,6 +59,15 @@ create table claim (
 );
 ```
 
+#### Patent descriptions
+
+```sql
+CREATE TABLE patdesc (
+  patent   VARCHAR(8),
+  abstract VARCHAR(50),
+  title    VARCHAR(20)
+);
+```
 
 ---
 
