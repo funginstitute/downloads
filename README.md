@@ -27,6 +27,7 @@ timestamps.
 * [class.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/class.sqlite3)
 * [inventor.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/inventor.sqlite3)
 * [patdesc.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/patdesc.sqlite3)
+* [assignee.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/assignee.sqlite3)
 
 
 
