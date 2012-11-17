@@ -26,6 +26,7 @@ timestamps.
 * [patent.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/patent.sqlite3)
 * [class.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/class.sqlite3)
 * [inventor.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/inventor.sqlite3)
+* [patdesc.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/patdesc.sqlite3)
 
 
 
