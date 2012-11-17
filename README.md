@@ -45,3 +45,13 @@ Prototype application will be operating by close of 2012.
 
 Note: there are RSS feeds available for all the repositories.
 Feel free to follow along in the RSS reader of your choice.
+
+---
+
+Markdown code test:
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
