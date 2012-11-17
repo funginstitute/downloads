@@ -50,8 +50,9 @@ Feel free to follow along in the RSS reader of your choice.
 
 Markdown code test:
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```sql
+create table claim (
+  patent TEXT,
+  claim  TEXT
+);
 ```
