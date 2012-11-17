@@ -41,14 +41,14 @@ data split from application as an independent service.
 
 Prototype application will be operating by close of 2012.
 
----
+## Schemas
 
-Note: there are RSS feeds available for all the repositories.
-Feel free to follow along in the RSS reader of your choice.
+This is a first cut at listing out some of the schemas. The listings here are *NOT* canonical.
+The schema in the actual database file is canonical.
 
----
+Use these schemas to figure out which files you wish to download.
 
-Markdown code test:
+#### Claims
 
 ```sql
 create table claim (
@@ -56,3 +56,11 @@ create table claim (
   claim  TEXT
 );
 ```
+
+
+---
+
+Note: there are RSS feeds available for all the repositories.
+Feel free to follow along in the RSS reader of your choice.
+
+
