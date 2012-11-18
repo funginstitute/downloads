@@ -29,6 +29,7 @@ timestamps.
 * [patdesc.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/patdesc.sqlite3)
 * [assignee.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/assignee.sqlite3)
 * [citation.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/citation.sqlite3)
+* [lawyer.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/lawyer.sqlite3)
 
 
 
