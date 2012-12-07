@@ -31,6 +31,11 @@ timestamps.
 * [citation.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/citation.sqlite3)
 * [lawyer.sqlite3 October 15, 2012](https://s3.amazonaws.com/funginstitute/lawyer.sqlite3)
 
+Also, note that many of the tables in these SQLite3 database files are
+*consolidated*. That is, each table *will* contain data parsed from the
+patent documents provided by USPTO and Google, and *may* contain data
+joined from other tables, third party sources (geocoding), or
+transformed from the original encoding into ASCII text.
 
 
 ## Applications and APIs
