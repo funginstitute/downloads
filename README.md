@@ -3,8 +3,8 @@
 ## Code repositories
 
 
-* The most current fork of the [Python preprocessor](https://github.com/doolin/patentprocessor).
-* Latest [disambiguation code](https://bitbucket.org/doolin/disambiguator/).
+* The most current fork of the [Python preprocessor](https://github.com/funginstitute/patentprocessor).
+* Latest [disambiguation code](https://github.com/funginstitute/disambiguator).
 
 Both the preprocessor and the disambiguation code will get forked into
 Fung Institute github repos in late 2012 or 2013. The repos above are the
