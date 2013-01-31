@@ -37,6 +37,8 @@ patent documents provided by USPTO and Google, and *may* contain data
 joined from other tables, third party sources (geocoding), or
 transformed from the original encoding into ASCII text.
 
+Also, tables may or may not be indexed appropriately for your needs. Distributing tables
+without indexing saves on bandwidth and download time.
 
 ## Applications and APIs
 
