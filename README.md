@@ -23,13 +23,13 @@ continue through 2013 as the data are prepared and delivered for access via
 a web-accessible API. When in doubt about schemas, examine specific file
 timestamps.
 
-* [patent.sqlite3 December 31, 2012](https://s3.amazonaws.com/funginstitute/patent.sqlite3)
-* [class.sqlite3 December 31, 2012](https://s3.amazonaws.com/funginstitute/class.sqlite3)
-* [inventor.sqlite3 December 31, 2012](https://s3.amazonaws.com/funginstitute/inventor.sqlite3)
-* [patdesc.sqlite3 December 31, 2012](https://s3.amazonaws.com/funginstitute/patdesc.sqlite3)
-* [assignee.sqlite3 December 31, 2012](https://s3.amazonaws.com/funginstitute/assignee.sqlite3)
-* [citation.sqlite3 December 31, 2012](https://s3.amazonaws.com/funginstitute/citation.sqlite3)
-* [lawyer.sqlite3 December 31, 2012](https://s3.amazonaws.com/funginstitute/lawyer.sqlite3)
+* [patent.sqlite3 December 25, 2012](https://s3.amazonaws.com/funginstitute/patent.sqlite3)
+* [class.sqlite3 December 25, 2012](https://s3.amazonaws.com/funginstitute/class.sqlite3)
+* [inventor.sqlite3 December 25, 2012](https://s3.amazonaws.com/funginstitute/inventor.sqlite3)
+* [patdesc.sqlite3 December 25, 2012](https://s3.amazonaws.com/funginstitute/patdesc.sqlite3)
+* [assignee.sqlite3 December 25, 2012](https://s3.amazonaws.com/funginstitute/assignee.sqlite3)
+* [citation.sqlite3 December 25, 2012](https://s3.amazonaws.com/funginstitute/citation.sqlite3)
+* [lawyer.sqlite3 December 25, 2012](https://s3.amazonaws.com/funginstitute/lawyer.sqlite3)
 
 Also, note that many of the tables in these SQLite3 database files are
 *consolidated*. That is, each table *will* contain data parsed from the
