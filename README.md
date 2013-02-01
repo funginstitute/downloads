@@ -13,9 +13,9 @@ best ones to fork for contributing at the moment.
 
 ## File Downloads
 
-* [Full September 4, 2012 disambiguation](https://s3.amazonaws.com/funginstitute/full.sqlite3)
+* [Full disambiguation, December 25, 2012 disambiguation](https://s3.amazonaws.com/funginstitute/full.sqlite3)
 
-SQLite databases uploaded after November 17 will reflect schema
+SQLite databases uploaded after November 17, 2012 will reflect schema
 updates with respect to the data originally distributed via the Harvard
 Dataverse Network. These schema updates will transition to SQL standards
 compliant, as implemented by PostgresQL. Schema migration is likely to
