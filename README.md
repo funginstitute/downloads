@@ -13,7 +13,7 @@ best ones to fork for contributing at the moment.
 
 ## File Downloads
 
-* [Full disambiguation, December 25, 2012 disambiguation](https://s3.amazonaws.com/funginstitute/full.sqlite3)
+* [Full disambiguation through December 25, 2012](https://s3.amazonaws.com/funginstitute/full.sqlite3)
 
 SQLite databases uploaded after November 17, 2012 will reflect schema
 updates with respect to the data originally distributed via the Harvard
