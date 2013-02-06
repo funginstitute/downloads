@@ -10,6 +10,14 @@ Both the preprocessor and the disambiguation code will get forked into
 Fung Institute github repos in late 2012 or 2013. The repos above are the
 best ones to fork for contributing at the moment.
 
+Please use the following for citing use of this data:
+
+```
+Ronald Lai; Alexander D'Amour; Amy Yu; Ye Sun; David M. Doolin, Lee Fleming, 2013,
+"Disambiguation and Co-authorship Networks of the U.S. Patent Inventor
+Database (1975 - 2013)"
+```
+
 ### Latest paper
 
 An extensively updated paper is available via Harvard Patent Dataverse:
