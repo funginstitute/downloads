@@ -1,6 +1,6 @@
 # Code and data from the UC Berkeley Fung Institute
 
-## Code repositories
+## Code repositories and paper
 
 
 * The most current fork of the [Python preprocessor](https://github.com/funginstitute/patentprocessor).
@@ -9,6 +9,12 @@
 Both the preprocessor and the disambiguation code will get forked into
 Fung Institute github repos in late 2012 or 2013. The repos above are the
 best ones to fork for contributing at the moment.
+
+### Latest paper
+
+An extensively updated paper is available via Harvard Patent Dataverse:
+[Disambiguation and Co-authorship Networks of the U.S. Patent Inventor
+Database](http://dvn.iq.harvard.edu/dvn/dv/patent/faces/study/StudyPage.xhtml?globalId=hdl:1902.1/15705&studyListingIndex=0_10b56e00ef1e5f859f91547083d8)
 
 
 ## File Downloads
