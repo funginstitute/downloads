@@ -27,7 +27,7 @@ Database](http://dvn.iq.harvard.edu/dvn/dv/patent/faces/study/StudyPage.xhtml?gl
 
 ## File Downloads
 
-* [Full disambiguation through March 26, 2013](https://s3.amazonaws.com/funginstitute/full_disambiguation.sqlite3)
+* [Full disambiguation through March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/full_disambiguation.sqlite3)
 
 SQLite databases uploaded after November 17, 2012 will reflect schema
 updates with respect to the data originally distributed via the Harvard
@@ -37,14 +37,14 @@ continue through 2013 as the data are prepared and delivered for access via
 a web-accessible API. When in doubt about schemas, examine specific file
 timestamps.
 
-* [patent.sqlite3 March 26, 2013](https://s3.amazonaws.com/funginstitute/patent.sqlite3)
-* [class.sqlite3 March 26, 2013](https://s3.amazonaws.com/funginstitute/class.sqlite3)
-* [inventor.sqlite3 March 26, 2013](https://s3.amazonaws.com/funginstitute/inventor.sqlite3)
-* [patdesc.sqlite3 March 26, 2013](https://s3.amazonaws.com/funginstitute/patdesc.sqlite3)
-* [invpat.sqlite3 March 26, 2013](https://s3.amazonaws.com/funginstitute/invpat.sqlite3)
-* [assignee.sqlite3 March 26, 2013](https://s3.amazonaws.com/funginstitute/assignee.sqlite3)
-* [citation.sqlite3 March 26, 2013](https://s3.amazonaws.com/funginstitute/citation.sqlite3)
-* [lawyer.sqlite3 March 26, 2013](https://s3.amazonaws.com/funginstitute/lawyer.sqlite3)
+* [patent.sqlite3 March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/patent.sqlite3)
+* [class.sqlite3 March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/class.sqlite3)
+* [inventor.sqlite3 March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/inventor.sqlite3)
+* [patdesc.sqlite3 March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/patdesc.sqlite3)
+* [invpat.sqlite3 March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/invpat.sqlite3)
+* [assignee.sqlite3 March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/assignee.sqlite3)
+* [citation.sqlite3 March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/citation.sqlite3)
+* [lawyer.sqlite3 March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/lawyer.sqlite3)
 
 Also, note that many of the tables in these SQLite3 database files are
 *consolidated*. That is, each table *will* contain data parsed from the
@@ -55,43 +55,6 @@ transformed from the original encoding into ASCII text.
 Also, tables may or may not be indexed appropriately for your needs. Distributing tables
 without indexing saves on bandwidth and download time.
 
-## Applications and APIs
-
-A prototype API server is under development right now (November 6, 2012).
-A lightweight application is being built on top of the API, and serves
-as a proof-of-concept. The anticipated development looks like this:
-
-1. Combined application and API for developing use cases.
-2. API for serving parsed, cleaned, consolidated  & disambiguated patent 
-data split from application as an independent service.
-3. Prototype consumes json via API from patent service.
-
-Prototype application will be operating by close of 2012.
-
-## Schemas
-
-This is a first cut at listing out some of the schemas. The listings here are *NOT* canonical.
-The schema in the actual database file is canonical.
-
-Use these schemas to figure out which files you wish to download.
-
-#### Claims
-
-```sql
-create table claim (
-  patent TEXT,
-  claim  TEXT
-);
-```
-
-#### Patent descriptions
-
-```sql
-CREATE TABLE patdesc (
-  patent   VARCHAR(8),
-  abstract VARCHAR(50),
-  title    VARCHAR(20)
-);
 ```
 
 ---
