@@ -24,8 +24,14 @@ An extensively updated paper is available via Harvard Patent Dataverse:
 [Disambiguation and Co-authorship Networks of the U.S. Patent Inventor
 Database](http://dvn.iq.harvard.edu/dvn/dv/patent/faces/study/StudyPage.xhtml?globalId=hdl:1902.1/15705&studyListingIndex=0_10b56e00ef1e5f859f91547083d8)
 
+## Latest Disambiguation
 
-## File Downloads
+Inventor Disambiguation through 7-16-2013:
+
+* [csv file](http://funglab.berkeley.edu/pub/uspto_inventor_disambiguated_201307016.csv)
+* [sqlite3 file](http://funglab.berkeley.edu/pub/uspto_inventor_disambiguated_201307016.sqlite3)
+
+## File Downloads (Old Schema)
 
 * [Full disambiguation through March 26, 2013](https://s3.amazonaws.com/fungpat_olddata/full_disambiguation.sqlite3)
 
