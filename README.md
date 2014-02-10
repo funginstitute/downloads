@@ -28,8 +28,7 @@ Database](http://dvn.iq.harvard.edu/dvn/dv/patent/faces/study/StudyPage.xhtml?gl
 
 Inventor Disambiguation through 7-16-2013:
 
-* [csv file](http://funglab.berkeley.edu/pub/uspto_inventor_disambiguated_201307016.csv)
-* [sqlite3 file](http://funglab.berkeley.edu/pub/uspto_inventor_disambiguated_201307016.sqlite3)
+* [csv file](http://fungpatdownloads.s3.amazonaws.com/invpat_dec312013.csv)
 
 ## File Downloads (Old Schema)
 
