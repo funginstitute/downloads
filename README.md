@@ -26,7 +26,7 @@ Database](http://dvn.iq.harvard.edu/dvn/dv/patent/faces/study/StudyPage.xhtml?gl
 
 ## Latest Disambiguation
 
-Inventor Disambiguation through 7-16-2013:
+Inventor Disambiguation through 12-31-2013:
 
 * [csv file](http://fungpatdownloads.s3.amazonaws.com/invpat_dec312013.csv)
 
