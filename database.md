@@ -18,11 +18,11 @@
 ### Development
 **grant**
 * needs assignee disambiguation
-~~* needs location links to disambiguated records~~
+* ~~needs location links to disambiguated records~~
 * awaiting joint grant/app inventor disambig
 
 **application**
-~~* needs location links to disambiguated records~~
+* ~~needs location links to disambiguated records~~
 * need to adjust claim foreign keys into the application table
 * needs assignee disambiguation
 * awaiting joint grant/app inventor disambig
