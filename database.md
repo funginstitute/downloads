@@ -4,6 +4,13 @@
 * classes for 1975 data mostly missing (~72,000)
 * titles truncated beyond 256 characters -- needs schema adjustment
 
+## March 12, 2014
+-----------------
+### Production
+**grant**
+* ~~finished backing up~~
+* uploading to RDS database with fixed `inventor_location` links
+
 ## March 11, 2014
 -----------------
 
