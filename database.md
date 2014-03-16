@@ -3,6 +3,22 @@
 ## Known Issues
 * classes for 1975 data mostly missing (~72,000)
 * titles truncated beyond 256 characters -- needs schema adjustment
+* locations in `location_inventor` table are listed from oldest to most-recent for an inventor career. Should make the switch
+  to most-recent only. Use `pd.drop_duplicates(take_last=True)` or some similar API call
+* locations in `location_assignee` table have duplicates
+
+## March 14, 2014
+
+### Development
+* finished joint application/grant assignee disambig
+
+**grant**
+* awaiting joint grant/app inventor disambig
+
+**application**
+* need to adjust claim foreign keys into the application table
+* awaiting joint grant/app inventor disambig
+
 
 ## March 12, 2014
 -----------------
