@@ -1,15 +1,13 @@
 # Database Progress
 
 ## Known Issues
-* classes for 1975 data mostly missing (~72,000) titles truncated beyond 256
-* characters -- needs schema adjustment locations in `location_inventor` table
-* are listed from oldest to most-recent for an inventor career. Should make the
-* switch
+* classes for 1975 data mostly missing (~72,000) 
+* titles truncated beyond 256 characters -- needs schema adjustment 
+* locations in `location_inventor` table are listed from oldest to most-recent for an inventor career. Should make the  switch
   to most-recent only. Use `pd.drop_duplicates(take_last=True)` or some similar
   API call
-* locations in `location_assignee` table have duplicates, also listeed from
-* oldest to most-recent for an assignee portfolio. Should make the switch to
-* most-recent only.
+* locations in `location_assignee` table have duplicates, also listeed from  oldest to most-recent for an assignee portfolio. Should make the switch to
+  most-recent only.
 
 ## March 14, 2014
 
