@@ -9,6 +9,25 @@
 * locations in `location_assignee` table have duplicates, also listeed from  oldest to most-recent for an assignee portfolio. Should make the switch to
   most-recent only.
 
+## March 27, 2014
+
+### Development
+
+**grant**
+* awaiting joint grant/app inventor disambig
+
+**application**
+* ~~need to adjust claim foreign keys into the application table~~ DONE!
+* awaiting joint grant/app inventor disambig
+
+### Production
+
+* awaiting most-recent inventor/assignee in location linking tables
+
+**application**
+* awaiting fixed foreign keys and app ids from apptest database
+
+
 ## March 14, 2014
 
 ### Development
