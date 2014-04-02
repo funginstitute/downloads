@@ -3,11 +3,21 @@
 ## Known Issues
 * classes for 1975 data mostly missing (~72,000) 
 * titles truncated beyond 256 characters -- needs schema adjustment 
-* locations in `location_inventor` table are listed from oldest to most-recent for an inventor career. Should make the  switch
-  to most-recent only. Use `pd.drop_duplicates(take_last=True)` or some similar
-  API call
-* locations in `location_assignee` table have duplicates, also listeed from  oldest to most-recent for an assignee portfolio. Should make the switch to
-  most-recent only.
+* location state field only allows 10 chars. Need to adjust to 20 chars.
+
+## April 1, 2014
+
+### Development
+
+* moving ahead with fixing location schema so that locations can have better resolution
+
+### Production
+
+**grant**
+* fixes pulled from development server. Now contains disambiguated inventor data
+
+**application**
+* fixes pulled from development server. Now contains fixed foreign keys and disambiguated inventor data
 
 ## March 31, 2014
 
