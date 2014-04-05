@@ -10,6 +10,7 @@
 ### Development
 
 * moving ahead with fixing location schema so that locations can have better resolution
+* updating database with grants, applications through April 1,2014
 
 ### Production
 
